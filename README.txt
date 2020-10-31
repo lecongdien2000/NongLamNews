@@ -1,0 +1,1 @@
+DeTai.html is a home page. Open from that.
